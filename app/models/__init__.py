@@ -5,3 +5,5 @@ from app.models.harvest import Harvest
 from app.models.demand import Demand
 from app.models.transaction import Transaction
 from app.models.price_history import PriceHistory
+
+from app.models.location_model import UserLocation
